@@ -10,5 +10,5 @@ printf("Invalid input. Please Vaild Input: ");
 scanf("%*s");
 }
 result=floor(n);
-printf("floor of %f = %f \n",n,result);
+printf("floor of %.2f = %.2f \n",n,result);
 }
